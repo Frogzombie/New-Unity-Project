@@ -8,6 +8,8 @@ public class Test2 : MonoBehaviour {
 
     float alana = 1.2f;
 
+    float james = 1.5f
+
 	// Use this for initialization
 	void Start () 
 
